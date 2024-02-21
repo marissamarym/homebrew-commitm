@@ -1,10 +1,10 @@
-# Marissamarym Commitm
+# commitm
 
-## How do I install these formulae?
+## How do I install this formula?
 
-`brew install marissamarym/commitm/<formula>`
+`brew install marissamarym/commitm/commitm`
 
-Or `brew tap marissamarym/commitm` and then `brew install <formula>`.
+Or `brew tap marissamarym/commitm` and then `brew install commitm`.
 
 ## Documentation
 
