@@ -1,4 +1,4 @@
-# commitm with Homebrew
+# commitm - AI-Generated Git Commit Messages
 
 Use the `commitm` command to generate commit messages, modify them, and commit!
 
