@@ -6,7 +6,6 @@ class Commitm < Formula
   license "MIT"
 
   depends_on "llm"
-  depends_on "simonw/llm/ttok"
 
   def install
     bin.install "src/commitm.zsh" => "commitm"
