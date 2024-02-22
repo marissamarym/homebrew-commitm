@@ -1,8 +1,8 @@
 class Commitm < Formula
   desc "Use the commitm command to generate commit messages, modify them, and commit!"
   homepage "https://github.com/marissamarym/commmitm"
-  url "https://github.com/marissamarym/commitm/releases/download/v1.0.2/commitm-v1.0.2.tar.gz"
-  sha256 "e4709b6375382babdf573e1743bff904ffe8a52617d198f1b159f06798dab0f8"
+  url "https://github.com/marissamarym/commitm/releases/download/v1.0.3/commitm-v1.0.3.tar.gz"
+  sha256 "eb270ae08cde5f6097096e040b981376acdafaeaa25bf02cb6e24f871348a26c"
   license "MIT"
 
   depends_on "llm"
